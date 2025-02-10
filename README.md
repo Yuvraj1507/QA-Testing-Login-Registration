@@ -1,3 +1,25 @@
+# Automated Testing of User Authentication System
+
+📌 Project Overview
+This project focuses on testing the registration and login pages using manual and 
+automation testing techniques. It ensures that users can register and 
+log in seamlessly with proper validation, security, and functionality checks.
+
+# 🛠 Technologies & Tools Used
+
+Languages: Java, HTML, CSS, JavaScript
+
+Testing Frameworks: Selenium WebDriver, TestNG
+
+Test Management & Reporting: JIRA, TestNG Reports, Excel (Bug Report & Test Cases)
+
+Automation Tools: Selenium, ChromeDriver, GeckoDriver
+
+Browsers Tested: Chrome, Firefox
+
+Version Control: Git, GitHub
+
+
 # register-page-testing
 ### This is an automation script using Selenium and TestNG to test a register page.
 
