@@ -1,11 +1,12 @@
 # Automated Testing of User Authentication System
 
-📌 Project Overview
+##📌 Project Overview
+
 This project focuses on testing the registration and login pages using manual and 
 automation testing techniques. It ensures that users can register and 
 log in seamlessly with proper validation, security, and functionality checks.
 
-# 🛠 Technologies & Tools Used
+## 🛠 Technologies & Tools Used
 
 Languages: Java, HTML, CSS, JavaScript
 
