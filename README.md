@@ -124,9 +124,7 @@ Automation Execution Report: Available in test-output/emailable-report.html
 
 
 
-📢 Future Improvements
-
-📢 Future Improvements
+# 📢 Future Improvements
 
 🛠 Enhance test coverage by adding more edge case validations
 
@@ -135,11 +133,13 @@ Automation Execution Report: Available in test-output/emailable-report.html
 🔐 Expand security testing to check for vulnerabilities in authentication
 
 
-🤝 Contributing
+# 🤝 Contributing
 
 Pull requests are welcome! If you find any issues, please open an Issue on GitHub.
 
-📜 License
+
+
+# 📜 License
 
 This project is licensed under the MIT License.
 
