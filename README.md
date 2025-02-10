@@ -6,19 +6,21 @@ This project focuses on testing the registration and login pages using manual an
 automation testing techniques. It ensures that users can register and 
 log in seamlessly with proper validation, security, and functionality checks.
 
+
 ## 🛠 Technologies & Tools Used
 
-Languages: Java, HTML, CSS, JavaScript
+* Languages: Java, HTML, CSS, JavaScript
 
-Testing Frameworks: Selenium WebDriver, TestNG
+* Testing Frameworks: Selenium WebDriver, TestNG
 
-Test Management & Reporting: JIRA, TestNG Reports, Excel (Bug Report & Test Cases)
+* Test Management & Reporting: JIRA, TestNG Reports, Excel (Bug Report & Test Cases)
 
-Automation Tools: Selenium, ChromeDriver, GeckoDriver
+* Automation Tools: Selenium, ChromeDriver, GeckoDriver
 
-Browsers Tested: Chrome, Firefox
+* Browsers Tested: Chrome, Firefox
 
-Version Control: Git, GitHub
+* Version Control: Git, GitHub
+
 
 ## 🔍 Features Tested
 
@@ -52,13 +54,13 @@ Version Control: Git, GitHub
 
 Prerequisites
 
-1.Install Java JDK (8 or higher)
+1. Install Java JDK (8 or higher)
 
-2.Install Eclipse/IntelliJ for Java development
+2. Install Eclipse/IntelliJ for Java development
 
-3.Add Selenium WebDriver dependencies
+3. Add Selenium WebDriver dependencies
 
-4.Download ChromeDriver/GeckoDriver for browser automation
+4. Download ChromeDriver/GeckoDriver for browser automation
 
 
 
