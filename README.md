@@ -52,13 +52,13 @@ Version Control: Git, GitHub
 
 Prerequisites
 
-Install Java JDK (8 or higher)
+1.Install Java JDK (8 or higher)
 
-Install Eclipse/IntelliJ for Java development
+2.Install Eclipse/IntelliJ for Java development
 
-Add Selenium WebDriver dependencies
+3.Add Selenium WebDriver dependencies
 
-Download ChromeDriver/GeckoDriver for browser automation
+4.Download ChromeDriver/GeckoDriver for browser automation
 
 
 
